@@ -1,8 +1,15 @@
 ---
 title: Test
+permalink: /about/
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
 
-Some Test page
+# Test Heading
+
+Hiho
+
+## Test Heading 2
+
+## Test Heading 3
