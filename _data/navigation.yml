@@ -1,4 +1,6 @@
 main:
+  - title: "Test"
+    urk: /test.html
   - title: "Posts"
     url: /posts/
   - title: "Categories"
