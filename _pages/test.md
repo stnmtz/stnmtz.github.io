@@ -1,6 +1,6 @@
 ---
 title: Test
-permalink: /about/
+permalink: /test/
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
