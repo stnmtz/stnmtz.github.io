@@ -1,8 +1,14 @@
 ---
 title: Test
 permalink: /test/
+author_profile: false
 sidebar:
-  nav: "docs"
+  - title: "My Docs"
+    text: "Some text"
+    nav: "docs"
+  - title: "Whaaat"
+    text: "Another Sidebar"
+    
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
